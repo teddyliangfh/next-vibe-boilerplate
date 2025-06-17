@@ -1,5 +1,5 @@
 ---
-description: description: Comprehensive guide for Tailwind CSS best practices, covering code organization, performance optimization, security considerations, and common pitfalls. This rule provides actionable guidance for developers to build scalable and maintainable Tailwind CSS projects. globs: *.html,*.js,*.jsx,*.ts,*.tsx,*.vue
+description: Comprehensive guide for Tailwind CSS best practices, covering code organization, performance optimization, security considerations, and common pitfalls. This rule provides actionable guidance for developers to build scalable and maintainable Tailwind CSS projects. globs: *.html,*.js,*.jsx,*.ts,*.tsx,*.vue
 globs: 
 alwaysApply: false
 ---
